@@ -1,3 +1,14 @@
+
+# Projeto criando um ecommerce
+
+![image](https://user-images.githubusercontent.com/72118415/171081190-23ed6d0b-735c-49d1-9618-376f6fecde83.png)
+
+
+![image](https://user-images.githubusercontent.com/72118415/171081223-fd566c9e-077e-466f-9473-2b66b7ae5d8f.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
